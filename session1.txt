@@ -1,0 +1,12 @@
+GIT Basics
+
+Repository: RoboElan/ROS_learning_trial
+
+GIT Commands (starting with "git")
+	
+	status
+	pull
+	add
+	commit
+	push
+	
